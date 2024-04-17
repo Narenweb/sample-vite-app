@@ -22,6 +22,7 @@ function App() {
       </div>
       <h1>Lets start with Vite - Naren</h1>
       <h1>Lets start with Vite - first</h1>
+      <h1>Lets start with Vite - second</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
